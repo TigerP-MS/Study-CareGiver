@@ -1,2 +1,3 @@
 .editorconfig
 *.out
+/.mono
